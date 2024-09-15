@@ -12,7 +12,7 @@ This project is a simple image carousel implemented using HTML and CSS and JS. I
     ```sh
     cd image_gallery
     ```
-<h3>Demo</h3>
+<h2>Demo</h2>
 
 <img src="https://media.licdn.com/dms/image/v2/D4E22AQFRLy1Q0Rna9A/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724168938127?e=1729123200&v=beta&t=nk7pWQUXXxnmXe4duJctrEBNeN_BXRKgkO0P0sE5mmc" alt="Image Gallary">
 
