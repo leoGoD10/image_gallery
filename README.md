@@ -12,6 +12,7 @@ This project is a simple image carousel implemented using HTML and CSS and JS. I
     ```sh
     cd image_gallery
     ```
+<h1>Demo</h1>
 
 ## Usage
 1. Open the `index.html` file in your web browser to view the carousel.
